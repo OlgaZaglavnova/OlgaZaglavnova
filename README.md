@@ -100,5 +100,5 @@ Technical assignment demonstrating state management and UI development.
 
 ## 📫 Contact
 
-- LinkedIn: *(add your profile link)*
-- Email: *(add your email)
+- LinkedIn: https://www.linkedin.com/in/olga-zaglavnova-068b67377
+- Email: olga.zaglavnova@gmail.com
