@@ -86,13 +86,13 @@ Technical assignment demonstrating state management and UI development.
 
 ## 📈 Development Journey
 
-**2019** — Started learning web development: HTML, CSS, JavaScript
+**2019** — Started learning web development: HTML, CSS/SCSS/SASS/LESS, JavaScript, React+Redux, Vue, Git
 
-**2020** — Explored React ecosystem and frontend fundamentals
+**2020** — Explored React ecosystem and frontend fundamentals, completed Angular training
 
-**2021** — Focused on Angular development
+**2021** — Focused on Angular development and built projects using Angular, RxJS, NgRx and Angular Material
 
-**2024** — Worked with modern Angular versions, NgRx and UI libraries
+**2024** — Worked with modern Angular versions, RxJs and UI libraries
 
 **2026** — Expanding into backend development with Node.js, NestJS, Docker and testing
 
