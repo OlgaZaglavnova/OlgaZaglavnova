@@ -15,7 +15,7 @@ Currently expanding my skills into full-stack development through learning proje
 - 🔄 Experience with state management using NgRx and NgXS
 - 🏗️ Focused on clean, maintainable and scalable applications
 - 🌱 Currently learning backend development with Node.js and NestJS
-
+- 🤖 Learning to use GitHub Copilot for improving development workflow and productivity
 ---
 
 ## 🛠 Tech Stack
