@@ -1,16 +1,104 @@
-## Hi there 👋
+# Hi, I'm Olga 👋
 
-<!--
-**OlgaZaglavnova/OlgaZaglavnova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer specializing in Angular and TypeScript.
 
-Here are some ideas to get you started:
+I build web applications with modern frontend architecture, reactive programming patterns, and component-based design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently expanding my skills into full-stack development through learning projects and building my own applications with Node.js and NestJS.
+
+---
+
+## 💻 About Me
+
+- 💼 Frontend Developer focused on the Angular ecosystem
+- 🅰️ Specialized in Angular, TypeScript and RxJS
+- 🔄 Experience with state management using NgRx and NgXS
+- 🏗️ Focused on clean, maintainable and scalable applications
+- 🌱 Currently learning backend development with Node.js and NestJS
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+
+Angular • TypeScript • RxJS • NgRx • NgXS • JavaScript • HTML5 • CSS3
+
+### Backend (learning projects)
+
+Node.js • NestJS • Express • PostgreSQL • MongoDB • Docker • PM2
+
+### Tools
+
+Git • npm
+
+---
+
+## 🚀 Currently Working On
+
+### CV Constructor
+
+A full-stack application for creating, managing and generating professional resumes.
+
+**Tech Stack**
+
+Angular 20 • NestJS • PostgreSQL • Prisma
+
+🚧 Currently in development
+
+---
+
+## ⭐ Featured Projects
+
+### CV Constructor
+
+A modern full-stack resume application.
+
+**Tech:** Angular 20 • NestJS • PostgreSQL • Prisma
+
+---
+
+### ResumeAngular
+
+My first Angular application created after completing Angular training.
+
+This project is preserved as part of my development journey.
+
+**Tech:** Angular 10 • RxJS
+
+---
+
+### Test_EM2025
+
+Technical assignment demonstrating modern Angular development.
+
+**Tech:** Angular 20
+
+---
+
+### Tellsy_test2024
+
+Technical assignment demonstrating state management and UI development.
+
+**Tech:** Angular 16 • NgRx • PrimeNG
+
+---
+
+## 📈 Development Journey
+
+**2019** — Started learning web development: HTML, CSS, JavaScript
+
+**2020** — Explored React ecosystem and frontend fundamentals
+
+**2021** — Focused on Angular development
+
+**2024** — Worked with modern Angular versions, NgRx and UI libraries
+
+**2026** — Expanding into backend development with Node.js, NestJS, Docker and testing
+
+---
+
+## 📫 Contact
+
+- LinkedIn: *(add your profile link)*
+- Email: *(add your email)
