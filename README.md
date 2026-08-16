@@ -56,6 +56,7 @@ An HTML letter.
 
 **Tech:** HTML email
 
+---
 
 ### CV Constructor
 
