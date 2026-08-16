@@ -50,6 +50,13 @@ Angular 20 • NestJS • PostgreSQL • Prisma
 
 ## ⭐ Featured Projects
 
+### HTMLLetter1_Aug2026
+
+An HTML letter.
+
+**Tech:** HTML email
+
+
 ### CV Constructor
 
 A modern full-stack resume application.
