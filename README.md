@@ -59,13 +59,14 @@ An HTML letter.
 
 ---
 
-### CV Constructor
+<!--### CV Constructor
 
 A modern full-stack resume application.
 
 **Tech:** Angular 20 • NestJS • PostgreSQL • Prisma
 
 ---
+-->
 
 ### ResumeAngular
 
