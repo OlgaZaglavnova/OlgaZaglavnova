@@ -34,7 +34,7 @@ Git • npm
 
 ---
 
-## 🚀 Currently Working On
+<!--## 🚀 Currently Working On
 
 ### CV Constructor
 
@@ -47,6 +47,7 @@ Angular 20 • NestJS • PostgreSQL • Prisma
 🚧 Currently in development
 
 ---
+-->
 
 ## ⭐ Featured Projects
 
